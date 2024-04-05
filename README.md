@@ -1,5 +1,12 @@
-## Getting Started
+# LANDING PAGE TOUR
 
+Tech: Nextjs 14, javascript, reactjs
+Database: mongoDB (use mongoose to working with)
+
+---
+
+create .env file
+add MONGO = "" // link server
 First, install the dependencies:
 
 ```bash
@@ -11,7 +18,6 @@ pnpm install
 # or
 bun install
 ```
-
 
 run the development server:
 

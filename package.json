@@ -13,7 +13,7 @@
     "install": "^0.13.0",
     "mongoose": "^8.0.0",
     "next": "14.0.4",
-    "next-auth": "^5.0.0-beta.3",
+    "next-auth": "^5.0.0-beta.16",
     "npm": "^10.2.5",
     "react": "^18",
     "react-dom": "^18"
